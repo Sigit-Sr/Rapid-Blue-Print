@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "829429784675",
+    "firebase_url": "https://rapid-blue-print-default-rtdb.firebaseio.com",
+    "project_id": "rapid-blue-print",
+    "storage_bucket": "rapid-blue-print.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829429784675:android:f8fb618f4b4a0f5e455856",
+        "android_client_info": {
+          "package_name": "com.example.barulagi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcgrtNFrbpDGSp3x5MsL7nOEUlQOVjmpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
